@@ -1,4 +1,3 @@
 # SQLite amalgamation
 
-SQLite version: 3.18.0
-
+SQLite version: 3.19.2
